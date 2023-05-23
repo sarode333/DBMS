@@ -24,7 +24,7 @@ SELECT * FROM PATIENT;
 |   2 | Swapnil  | Jadhav   | 2000-04-11 | Male   | SambhajiNagar | 9860200366 | O+          | None                 |          1 |
 |   3 | Prashant | Hinge    | 2004-08-18 | Male   | Kopargaon     | 9860200367 | B+          | Asthma               |          1 |
 |   4 | Adesh    | Jadhav   | 1993-08-18 | Male   | Yeola         | 9860200368 | O+          | Skin conditions:Acne |          1 |
-|   5 | Manoj    | Gambhire | 2007-03-29 | Female | Pune          | 9860200369 | A+          | None                 |          1 |
+|   5 | Manoj    | Gambhire | 2007-03-29 | Male   | Pune          | 9860200369 | A+          | None                 |          1 |
 +-----+----------+----------+------------+--------+---------------+------------+-------------+----------------------+------------+
 
 
